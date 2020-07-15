@@ -19,6 +19,7 @@ header {
   margin:  0 auto
   text-align: center;
 }
+
 /* headerタグ内のheadlineクラスにのみ反映する */
 header .headline {
 	font-size: 32px;
