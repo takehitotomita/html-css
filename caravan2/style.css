@@ -52,6 +52,7 @@ header .headline {
 .main-visual-name {
 	margin-top: 30px; /* 上側の外側の余白 */
 	color: #fff; /* 文字色を白に変更 */
+	
 }
 .main {
   width: 840px;
